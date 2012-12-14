@@ -1,0 +1,2 @@
+base(16);
+define mb(x) = x << 20;
