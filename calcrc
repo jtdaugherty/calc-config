@@ -1,2 +1,2 @@
 base(16);
-define mb(x) = x << 20;
+define mb(x) = x << 19;
